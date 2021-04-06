@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'dr-detection-playground'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c141d6081e9a4e8e85e4a73a546f1a22 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_85913c76db9d493589cf4179e7fa1647 }}
